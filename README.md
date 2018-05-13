@@ -1,4 +1,5 @@
 Technical Report
+
 There is a purpose to set up three components in this project to keep the location-based quiz run and serve the users. They are the the AppServer, QuestionsApp and the QuizApp. The database server is supported by postgreSQL/PGAdmin4.
 
 NodeJS Server: AppServer
